@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    text-align: center;
+    font-size: 80px;
+    color:antiquewhite
+    
+}
+
+#texto {
+    text-align: center;
+    background-color: aqua;
+  
+
+
+}
+
+p{
+    font-size: 30px;
+    border: solid 2px;
+    
+   
+
+}
