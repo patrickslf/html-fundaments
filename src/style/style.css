@@ -16,6 +16,7 @@
 #texto {
     text-align: center;
     background-color: aqua;
+    width: fit-content ;
   
 
 
@@ -24,7 +25,9 @@
 p{
     font-size: 30px;
     border: solid 2px;
-    
-   
 
+}
+
+body{
+    width: fit-content 100%;
 }
